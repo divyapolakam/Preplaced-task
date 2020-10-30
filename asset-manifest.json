@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Preplaced-task/static/css/main.9893b05c.chunk.css",
+    "main.js": "/Preplaced-task/static/js/main.f27b21d4.chunk.js",
+    "main.js.map": "/Preplaced-task/static/js/main.f27b21d4.chunk.js.map",
+    "runtime-main.js": "/Preplaced-task/static/js/runtime-main.409e3093.js",
+    "runtime-main.js.map": "/Preplaced-task/static/js/runtime-main.409e3093.js.map",
+    "static/js/2.3dc047d8.chunk.js": "/Preplaced-task/static/js/2.3dc047d8.chunk.js",
+    "static/js/2.3dc047d8.chunk.js.map": "/Preplaced-task/static/js/2.3dc047d8.chunk.js.map",
+    "static/js/3.9e6f40f2.chunk.js": "/Preplaced-task/static/js/3.9e6f40f2.chunk.js",
+    "static/js/3.9e6f40f2.chunk.js.map": "/Preplaced-task/static/js/3.9e6f40f2.chunk.js.map",
+    "index.html": "/Preplaced-task/index.html",
+    "static/css/main.9893b05c.chunk.css.map": "/Preplaced-task/static/css/main.9893b05c.chunk.css.map",
+    "static/js/2.3dc047d8.chunk.js.LICENSE.txt": "/Preplaced-task/static/js/2.3dc047d8.chunk.js.LICENSE.txt",
+    "static/media/mailchimp.1f9ffa7b.jpeg": "/Preplaced-task/static/media/mailchimp.1f9ffa7b.jpeg",
+    "static/media/wordpress.bb6b480a.jpeg": "/Preplaced-task/static/media/wordpress.bb6b480a.jpeg",
+    "static/media/zendesk.a64fc281.jpeg": "/Preplaced-task/static/media/zendesk.a64fc281.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.409e3093.js",
+    "static/js/2.3dc047d8.chunk.js",
+    "static/css/main.9893b05c.chunk.css",
+    "static/js/main.f27b21d4.chunk.js"
+  ]
+}
